@@ -36,9 +36,6 @@
 
 #include "../inc/Reflectance_Sensor.h"
 
-#include "msp.h"
-#include "Clock.h"
-
 void Reflectance_Sensor_Init()
 {
     // Configure P5.3 as an output GPIO pin by
